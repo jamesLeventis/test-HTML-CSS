@@ -1,0 +1,52 @@
+body {background-color: peachpuff;}
+
+img {width: 240px ;
+    height: 150px 
+     
+    ;}
+
+img.round-image {
+        border-radius: 50%;
+      }
+img.round-image {
+        border: 5px solid ;
+        border-color: black;
+      }
+
+h1, h2 { font-family: "Lucida handwriting" ;}
+
+a {
+    font-size: 26px ;
+    color: green;
+    padding-left: 5px;
+    
+}
+
+ol{
+    color: darkblue;
+    text-align:center ;
+    font-size: 10px;
+}
+
+.javascript{ color: red;
+    padding-left: 0px;
+    font-size: 36px
+
+
+    
+ }
+ .Python{ color: green ;
+    font-size: 36px;
+}
+
+ .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; }
+
+img{ padding-top: 20px;}
+
+
+
+
+
